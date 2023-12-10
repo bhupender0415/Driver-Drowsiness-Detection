@@ -8,9 +8,11 @@ The system uses OpenCV, Dlib, and imutils libraries for image processing, and th
 
 ![WhatsApp Image 2023-12-04 at 12 23 31 AM](https://github.com/bhupender0415/Driver-Drowsiness-Detection/assets/63164983/d330aed6-4143-45e1-8333-f82b3fb96bfe)
 
-
+ <p><img src="" align="center" height="350">
 
 ![Screenshot 2023-12-05 201419](https://github.com/bhupender0415/Driver-Drowsiness-Detection/assets/63164983/7c03a0db-984d-41ac-8a6b-86cf5d4e82a8 "Drowsiness detected")
+
+<p><img src="" align="center" height="350">
 
 ## Dependencies
 
@@ -43,6 +45,16 @@ When the program is running, it will display two windows: one showing the video 
 ## Contributing
 
 Contributions are welcome. Please fork the repository and create a pull request with your changes.
+
+## Our contributors
+
+<table>
+  <tr>
+        <td align="center"><a href="https://github.com/Tanmay-Saxena10"><img src="https://avatars.githubusercontent.com/u/115370358?s=400&u=763dcaa3565639fb8bb9a27e240c83dd473acdce&v=4" width="100px;" alt=""/><br /><sub><b>TANMAY SAXENA</b></sub></a><br />
+
+<td align="center"><a href="https://github.com/bhupender0415"><img src="https://avatars.githubusercontent.com/u/63164983?v=4" width="100px;" alt=""/><br /><sub><b>BHUPENDER SINGH</b></sub></a><br />
+
+<td align="center"><a href="https://github.com/SAM-17-ART"><img src="https://avatars.githubusercontent.com/u/82834807?v=4" width="100px;" alt=""/><br /><sub><b>SATYAM</b></sub></a><br />
 
 ## License
 
